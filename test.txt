@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+hello world
+=======
 maika ti da eba
+>>>>>>> main
